@@ -1,0 +1,40 @@
+
+.game-over-container {
+  text-align: center;
+}
+
+.game-over-text,
+.number-correct-text {
+  font-size: 200%;
+  color: #000000;
+  text-align: center;
+}
+
+.game-over-text {
+  margin-top: 50px;
+  text-transform: uppercase;
+}
+
+.loading-text {
+  font-size: 250%;
+  color: #FFF;
+  margin-top: 50px;
+}
+
+.num-correct {
+  color: #000000;
+  font-size: 150%;
+}
+
+.play-again-button {
+  text-transform: uppercase;
+  margin-top: 30px;
+}
+
+.play-again-button:hover {
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
